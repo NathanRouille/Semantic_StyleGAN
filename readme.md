@@ -2,7 +2,7 @@
 
 # Latent Space Manipulation Project – StyleGAN2
 
-This project was conducted by three students for a course at Télécom Paris. Feel free to contact any of us: [Nathan Rouille](https://github.com/NathanRouille) [Aymane Hamdaoui](https://github.com/Mamannne) [Sacha Khosrowshahi](https://github.com/sachkho/sachkho).
+This project was conducted by three students for a course at Télécom Paris. Feel free to contact any of us: [Nathan Rouillé](https://github.com/NathanRouille) [Aymane Hamdaoui](https://github.com/Mamannne) [Sacha Khosrowshahi](https://github.com/sachkho/sachkho).
 
 The main goal of this project was to give a semantic meaning to the latent space of a pretrained StyleGAN2 model. We implemented several methods from the literature, including InterfaceGAN, GANSpace, and Style Mixing. We also included a script to project real images into the latent space. The model we used was trained on the FFHQ dataset (faces) and was provided by NVIDIA: https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/ffhq.pkl. Some of the scripts were adapted from the official StyleGAN2-ADA-PyTorch repository: https://github.com/NVlabs/stylegan2-ada-pytorch
 
