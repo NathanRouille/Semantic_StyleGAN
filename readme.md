@@ -1,4 +1,4 @@
-# Latent Space Manipulation Project – StyleGAN2
+# Latent Space Manipulation Project – StyleGAN2 
 
 This project was conducted by three students for a course at Télécom Paris. Feel free to contact any of us: [Nathan Rouillé](https://github.com/NathanRouille) [Aymane Hamdaoui](https://github.com/Mamannne) [Sacha Khosrowshahi](https://github.com/sachkho/sachkho).
 
